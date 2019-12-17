@@ -1,16 +1,23 @@
 # Hello, world!
-I am a true full stack developer: css/js/python/rdbms/devops  
+My name is James Lin
+I am a **true** full stack developer: css/js/python/rdbms/devops  
 ... and passionate about writing software to solve real life problems
 
+# STRENGTH
+  - Python / Django / JS / RDBMS / ES / DEVOPS
+  - Mentoring & Knowledge sharing
+  - Learning new tech
 
-# Experience
+# EXPERIENCE
 
 ### Business Technology Group
 <sup>Aug 2018 - PRESENT</sup>
   - Various Internal Python projects
   - Billing Project Dev Lead
-  - Mentor Junior Devs, PR reviews
   - Django/Python
+  - Docker
+  - Mentor Junior Devs, PR reviews
+  - Architecture design
 
 ### Yellow NZ
 <sup>Apr 2017 - Aug 2018</sup>
@@ -45,4 +52,18 @@ I am a true full stack developer: css/js/python/rdbms/devops
   - Test automation with Selenium
   - Django/Python, Javascript, PHP
 
+### KiwiRail, Auckland — Junior/Intermediate/Senior Developer
+<sup>Oct 2004 - May 2010</sup>
+  - In-house software development
+  - Look after critical EDI systems
+  - ASP.NET (code behind)
+  - Java
+  - PHP
 
+# EDUCATION
+### Massey University, Palmerston North 
+<sup>Jan 2001 - Dec 2003</sup>
+  - Bachelor of computer science and information systems
+
+### Awatapu College, Palmerston North
+<sup>Jan 2008 - Dec  2000</sup>
