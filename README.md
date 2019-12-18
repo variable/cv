@@ -1,7 +1,7 @@
 # Hello, world!
-My name is James Lin
+My name is James Lin   
 I am a **true** full stack developer: css/js/python/rdbms/devops  
-... and passionate about writing software to solve real life problems
+And passionate about writing software to solve real life problems
 
 # STRENGTH
   - Python / JS / Django / React / RDBMS / ES / DEVOPS
