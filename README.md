@@ -37,12 +37,6 @@ And passionate about writing software to solve real life problems
   - Mentoring
   - Django/Python, Javascript
 
-### Freelance Work
-<sup>2005 - Present</sup>
-  - Freelance
-  - AWS, DevOps, CI/CD, Docker
-  - Django/Python, PHP, Javascript
-
 ### Yellow NZ, Auckland — Senior Developer
 <sup>May 2010 - Jan 2013</sup>
   - Maintain and develop new features on Finda
@@ -58,6 +52,12 @@ And passionate about writing software to solve real life problems
   - ASP.NET (code behind)
   - Java
   - PHP
+
+### Freelance Work
+<sup>2005 - Present</sup>
+  - Freelance
+  - AWS, DevOps, CI/CD, Docker
+  - Django/Python, PHP, Javascript
 
 # EDUCATION
 ### Massey University, Palmerston North 
