@@ -1,7 +1,7 @@
 # Hello, world!
 My name is James Lin   
 I am a **TRUE** full stack developer equips with devops skills  
-And passionate about writing software to solve real life problems, I am also active on stackoverflow, [meet me there](https://stackoverflow.com/users/342553/james-lin).
+And passionate about writing software to solve real life problems, I am also active on stackoverflow, [meet me there](https://stackoverflow.com/users/342553/james-lin?tab=profile).
 
 # STRENGTH
   - Python / JS / Django / React / RDBMS / ES / DEVOPS
