@@ -1,6 +1,6 @@
 # Hello, world!
 My name is James Lin   
-I am a **TRUE** full stack developer with devops skills.
+I am a **TRUE** full stack developer with devops skills  
 And passionate about writing software to solve real life problems
 
 # STRENGTH
@@ -38,6 +38,7 @@ And passionate about writing software to solve real life problems
   - Django/Python, Javascript
 
 ### Freelance Work
+<sup>2005 - Present</sup>
   - Freelance
   - AWS, DevOps, CI/CD, Docker
   - Django/Python, PHP, Javascript
