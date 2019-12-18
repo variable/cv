@@ -1,6 +1,6 @@
 # Hello, world!
 My name is James Lin   
-I am a **true** full stack developer: css/js/python/rdbms/devops  
+I am a **TRUE** full stack developer with devops skills.
 And passionate about writing software to solve real life problems
 
 # STRENGTH
@@ -13,9 +13,7 @@ And passionate about writing software to solve real life problems
 ### Business Technology Group
 <sup>Aug 2018 - PRESENT</sup>
   - Various Internal Python projects
-  - Billing Project Dev Lead
-  - Django/Python
-  - Docker
+  - Django/Python/Docker
   - Mentor Junior Devs, PR reviews
   - Architecture design
 
