@@ -10,28 +10,28 @@ And passionate about writing software to solve real life problems
 
 # EXPERIENCE
 
-### Business Technology Group
+### Business Technology Group - Senior Developer
 <sup>Aug 2018 - PRESENT</sup>
   - Various Internal Python projects
   - Django/Python/Docker
   - Mentor Junior Devs, PR reviews
   - Architecture design
 
-### Yellow NZ
+### Yellow NZ - Senior Developer
 <sup>Apr 2017 - Aug 2018</sup>
   - Various Internal Python projects
   - Mentor Junior Devs, PR reviews
   - Django/Python, AWS Lambda
   - Project Dev Lead
 
-### GrabOne, NZME
+### GrabOne, NZME - Senior Developer
 <sup>Jan 2014 - Apr 2017</sup>
   - SOA Architecture 
   - Open source development
   - CI Integration
   - Django/Python, Javascript
 
-### ImageCentre Group
+### ImageCentre Group - Senior Developer
 <sup>Jan 2013 - Oct 2013</sup>
   - Deliver online products according to specification and timeframe
   - Mentoring
@@ -45,7 +45,7 @@ And passionate about writing software to solve real life problems
   - Test automation with Selenium
   - Django/Python, Javascript, PHP
 
-### KiwiRail, Auckland — Junior/Intermediate/Senior Developer
+### KiwiRail, Auckland — Developer
 <sup>Oct 2004 - May 2010</sup>
   - In-house software development
   - Look after critical EDI systems
