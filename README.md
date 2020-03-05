@@ -9,6 +9,15 @@ And passionate about writing software to solve real life problems, I am also act
   - Mentoring & Knowledge sharing
   - Learning new tech
 
+# OPEN SOURCE CONTRIBUTIONS (PRs & Suggestions & Issues)
+  - [Django Rest Framework Queryset](https://github.com/variable/django-rest-framework-queryset)
+  - [Alexa Skill Boilerplate](https://github.com/variable/alexa_skill_boilerplate)
+  - [Proxmoxer](https://github.com/proxmoxer/proxmoxer)
+  - [Django-Environ](https://github.com/joke2k/django-environ)
+  - [Django-Countries](https://github.com/SmileyChris/django-countries/pull/54)
+  - [Viewflow](https://github.com/viewflow/viewflow)
+  - [Django-OAuth-Toolkit](https://github.com/jazzband/django-oauth-toolkit)
+
 # EXPERIENCE
 
 ### Business Technology Group - Senior Developer
