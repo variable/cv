@@ -9,7 +9,7 @@ And passionate about writing software to solve real life problems, I am also act
   - Mentoring & Knowledge sharing
   - Learning new tech
 
-# OPEN SOURCE CONTRIBUTIONS (PRs & Suggestions & Issues)
+# CONTRIBUTIONS (PRs & Suggestions & Issues)
   - [Django Rest Framework Queryset](https://github.com/variable/django-rest-framework-queryset)
   - [Alexa Skill Boilerplate](https://github.com/variable/alexa_skill_boilerplate)
   - [Proxmoxer](https://github.com/proxmoxer/proxmoxer)
