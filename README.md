@@ -75,4 +75,4 @@ And passionate about writing software to solve real life problems, I am also act
   - Bachelor of computer science and information systems
 
 ### Awatapu College, Palmerston North
-<sup>Jan 2008 - Dec  2000</sup>
+<sup>Jan 1998 - Dec  2000</sup>
