@@ -1,7 +1,7 @@
 # HELLO, WORLD!
 My name is [James Lin](mailto:james@lin.nz)
 
-I am a full stack developer also equips with reasonable level of devops skills, and passionate about writing software to solve real life problems. I am also active on [stackoverflow](https://stackoverflow.com/users/342553/james-lin?tab=profile).
+I am a full stack python developer with reasonable level of devops skills, and love writing software to solve real life problems. I am also active on [stackoverflow](https://stackoverflow.com/users/342553/james-lin?tab=profile).
 
 # STRENGTH
   - Python / JS / Django / React / RDBMS / ES / DEVOPS
