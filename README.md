@@ -3,10 +3,10 @@ My name is [James Lin](mailto:james@lin.nz)
 
 I am a full stack python developer with reasonable level of devops skills, and love writing software to solve real life problems. I am also active on [stackoverflow](https://stackoverflow.com/users/342553/james-lin?tab=profile).
 
-# STRENGTH
+# STRENGTHS
   - Python / JS / Django / React / RDBMS / ES / DEVOPS
   - Mentoring & Knowledge sharing
-  - Learning new tech
+  - Learning new stuff
 
 # EXPERIENCE
 
@@ -66,3 +66,14 @@ I am a full stack python developer with reasonable level of devops skills, and l
 
 ### Awatapu College, Palmerston North
 <sup>Jan 1998 - Dec  2000</sup>
+
+# PROFILES & CONTRIBUTIONS
+- [Stackoverflow](https://stackoverflow.com/users/342553/james-lin)
+- [Github](https://github.com/variable)
+
+# Hobbies
+- Woodworking
+- Welding (MIG, Stick)
+- Gaming
+- Sports
+- 4WD
