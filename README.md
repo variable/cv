@@ -12,6 +12,7 @@ I am a full stack python developer with reasonable level of devops skills, and l
 
 ### Business Technology Group - Senior Developer
 <sup>Aug 2018 - PRESENT</sup>
+  - Quarterly Champion reward - July 2022
   - Various Internal/External Python projects
   - Django/Python/Docker/ReactJS/Postgres/CICD
   - Mentor Junior Devs, PR reviews
