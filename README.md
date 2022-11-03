@@ -3,9 +3,9 @@ My name is [James Lin](https://james.lin.nz), you can reach me via [email](mailt
 
 I am a full stack python developer with reasonable level of devops skills, and love writing software to solve real life problems. I am also active on [stackoverflow](https://stackoverflow.com/users/342553/james-lin?tab=profile).
 
-# STRENGTHS
-  - Python / JS / Django / React / RDBMS / ES / DEVOPS
-  - Mentoring & Knowledge sharing
+# KEY SKILLS
+  - Python / JS / DB / DEVOPS/ Django / React / ElasticSearch
+  - Mentoring & knowledge sharing
   - Learning new stuff
 
 # EXPERIENCE
