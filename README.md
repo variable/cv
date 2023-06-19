@@ -74,7 +74,7 @@ I am a full stack python developer with reasonable level of devops skills, and l
 
 # Hobbies
 - Woodworking
-- Welding (MIG, Stick)
+- Welding (MIG, Stick, Tig)
 - Gaming
 - Sports
 - 4WD
