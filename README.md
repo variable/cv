@@ -21,7 +21,7 @@ I am a full stack python developer with reasonable level of devops skills, and l
 
 ### Yellow NZ - Senior Developer
 <sup>Apr 2017 - Aug 2018</sup>
-  - Various Internal Python projects
+  - Various Python projects (Yellow listings & Adwords engine)
   - Mentor Junior Devs, PR reviews
   - Django/Python, AWS Lambda
   - Project Dev Lead
