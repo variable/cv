@@ -4,7 +4,7 @@ My name is [James Lin](https://james.lin.nz), you can reach me via [email](mailt
 I am a full stack python developer with reasonable level of devops skills, and love writing software to solve real life problems. I am also active on [stackoverflow](https://stackoverflow.com/users/342553/james-lin?tab=profile).
 
 # KEY SKILLS
-  - Python / JS / DB / DEVOPS/ Django / React / ElasticSearch
+  - Python / Javascript / Database / DEVOPS/ Django / React / ElasticSearch
   - Mentoring & knowledge sharing
   - Learning new stuff
 
@@ -13,10 +13,11 @@ I am a full stack python developer with reasonable level of devops skills, and l
 ### Business Technology Group - Senior Developer
 <sup>Aug 2018 - PRESENT</sup>
   - Quarterly Champion reward - July 2022
-  - Various Internal/External Python projects
+  - Various Internal/External Python projects (eg. billing, service desk, workflow etc)
   - Django/Python/Docker/ReactJS/Postgres/CICD
   - Mentor Junior Devs, PR reviews
   - Architecture design
+  - Writing tests
 
 ### Yellow NZ - Senior Developer
 <sup>Apr 2017 - Aug 2018</sup>
