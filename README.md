@@ -28,7 +28,8 @@ I am a full stack python developer with reasonable level of devops skills, and l
 
 ### GrabOne, NZME - Senior Developer
 <sup>Jan 2014 - Apr 2017</sup>
-  - SOA Architecture 
+  - SOA Architecture
+  - Develop services including SSO(Oauth2), cart, billing and fulfillment
   - Open source development
   - CI Integration
   - Django/Python, Javascript
