@@ -1,7 +1,7 @@
 # HELLO, WORLD!
 My name is [James Lin](https://james.lin.nz), you can reach me via [email](mailto:james@lin.nz) or [Linkedin](https://www.linkedin.com/in/james-lin-nz/)
 
-I am a full stack python developer with reasonable level of devops skills, and love writing software to solve real life problems. I am also active on [stackoverflow](https://stackoverflow.com/users/342553/james-lin?tab=profile).
+I am a full stack python developer with reasonable level of devops skills, and love writing software to solve real life problems. I am active on [stackoverflow](https://stackoverflow.com/users/342553/james-lin?tab=profile) also contribute to open source projects every now and then.
 
 # KEY SKILLS
   - Python / Javascript / Database / DEVOPS/ Django / React / ElasticSearch
