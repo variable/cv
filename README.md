@@ -12,12 +12,20 @@ I am a full stack python developer with reasonable level of devops skills, and l
 
 ### Business Technology Group - Senior Developer
 <sup>Aug 2018 - PRESENT</sup>
+  - Django/Python/ReactJS/Databases
   - Quarterly Champion reward - July 2022
-  - Various Internal/External Python projects (eg. billing, service desk, workflow etc)
-  - Django/Python/Docker/ReactJS/Postgres/CICD
-  - Mentor Junior Devs, PR reviews
-  - Architecture design
-  - Writing tests
+  - Internal/External projects
+  - Mentor junior devs, review pull requests
+  - Participate in architecture design
+  - Created automated billing tool to process 14+ products and services
+  - Improved service usage polling accuracy by at least 4 times
+  - Optimized service usage polling performance
+  - Created workflow project to improve resource provisioning for clients
+  - Setup automated testing in CICD
+  - Setup automated code vulnerability scan in CICD
+  - Setup internal PYPI index
+  - Setup internal docker repositries
+  - Pineeored a docker based project
 
 ### Yellow NZ - Senior Developer
 <sup>Apr 2017 - Aug 2018</sup>
