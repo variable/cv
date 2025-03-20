@@ -7,6 +7,7 @@ Reach me via [email](mailto:james@lin.nz) or [Linkedin](https://www.linkedin.com
 # KEY SKILLS
   - Python / Javascript / Database / DEVOPS/ Django / React / ElasticSearch
   - Mentoring & knowledge sharing
+  - Fine-tuning AI models
   - Learning new stuff
 
 # EXPERIENCE
@@ -26,7 +27,7 @@ Reach me via [email](mailto:james@lin.nz) or [Linkedin](https://www.linkedin.com
   - Setup automated code vulnerability scan in CICD
   - Setup internal PYPI index
   - Setup internal docker repositries
-  - Pineeored a docker based project
+  - Fine-tune AI models for classification tasks
 
 ### Yellow NZ - Senior Developer
 <sup>Apr 2017 - Aug 2018</sup>
