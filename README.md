@@ -7,7 +7,7 @@ Reach me via [email](mailto:james@lin.nz) or [Linkedin](https://www.linkedin.com
 # KEY SKILLS
   - Python / Javascript / Database / DEVOPS/ Django / React / ElasticSearch
   - Mentoring & knowledge sharing
-  - Fine-tuning AI models
+  - Fine-tuning AI models / RAG
   - Learning new stuff
 
 # EXPERIENCE
