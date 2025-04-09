@@ -28,6 +28,8 @@ Reach me via [email](mailto:james@lin.nz) or [Linkedin](https://www.linkedin.com
   - Setup internal PYPI index
   - Setup internal docker repositries
   - Fine-tune AI models for classification tasks
+  - Inferencing LLM 
+  - Implementing RAG on LLM
 
 ### Yellow NZ - Senior Developer
 <sup>Apr 2017 - Aug 2018</sup>
