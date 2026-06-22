@@ -8,7 +8,7 @@ Reach me via [email](mailto:james@lin.nz) or [Linkedin](https://www.linkedin.com
   - Python / Javascript / Database / DEVOPS/ Django / React / ElasticSearch
   - Mentoring & knowledge sharing
   - Fine-tuning AI models / RAG
-  - Vibe coding with Claude, proactive human supervision
+  - Vibe coding with Active Oversight
   - Learning new stuff
 
 # EXPERIENCE
