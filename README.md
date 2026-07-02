@@ -87,7 +87,7 @@ Reach me via [email](mailto:james@lin.nz) or [Linkedin](https://www.linkedin.com
 
 # Hobbies
 - Woodworking
-- Welding (MIG, Stick, Tig)
+- Welding (Stick certfied, MIG, Tig)
 - Gaming
 - Sports
 - 4WD
